@@ -15,5 +15,4 @@ THIS IS NOT THE ORIGINAL RELEASE. This is a source port called Boom that makes t
 If you're looking for the IWAD though (the actual game data used for other source ports and the original game), you've come to the right place.
 # Download
 
-
-_    <a class="nes-btn is-file" onclick="location.href='https://archive.org/download/doom-play/DOOM.zip'" >Download</a> _
+<button type="button" class="nes-btn is-success" onclick="location.href='https://archive.org/download/doom-play/DOOM.zip'" >Download</button>
