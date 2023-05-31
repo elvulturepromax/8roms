@@ -1,7 +1,10 @@
 <div class="nes-container is-rounded is-centered green-border downloads">
   <p><small>Download</small></p>
   <div>
-    <a class="nes-btn is-file" href="{{ site.github.zip_url }}">.ZIP</a>
-    <a class="nes-btn is-file" href="{{ site.github.tar_url }}">.TAR</a>
+    <script>
+      var download = window.location;
+    </script>
+    <a class="nes-btn is-file" onclick="location.href=download + 'download.html'" >Download</a>
   </div>
 </div>
+ 
